@@ -4,7 +4,7 @@ Cardiovascular diseases are among the leading causes of mortality worldwide, wit
 The Extreme Gradient Boosting (XGBoost) method is used in this work to predict cardiac attacks. 
 
 # Dataset Features
-## Age: The age of the patient.
+**Age**: The age of the patient.
 ## Gender: Male or Female.
 ## Hypertension: Presence of hypertension (1 = Yes, 0 = No).
 ## Heart Disease: History of heart disease (1 = Yes, 0 = No).
